@@ -1,0 +1,12 @@
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\bin\Debug\netcoreapp3.1\Path.exe
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\bin\Debug\netcoreapp3.1\Path.deps.json
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\bin\Debug\netcoreapp3.1\Path.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\bin\Debug\netcoreapp3.1\Path.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\bin\Debug\netcoreapp3.1\Path.dll
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\bin\Debug\netcoreapp3.1\Path.pdb
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\obj\Debug\netcoreapp3.1\Path.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\obj\Debug\netcoreapp3.1\Path.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\obj\Debug\netcoreapp3.1\Path.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\obj\Debug\netcoreapp3.1\Path.dll
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\obj\Debug\netcoreapp3.1\Path.pdb
+C:\ProgramasCSharp\ConceitoDePath\Path\Path\obj\Debug\netcoreapp3.1\Path.genruntimeconfig.cache

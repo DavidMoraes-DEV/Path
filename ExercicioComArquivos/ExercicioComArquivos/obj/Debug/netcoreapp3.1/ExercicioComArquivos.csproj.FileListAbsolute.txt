@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\bin\Debug\netcoreapp3.1\ExercicioComArquivos.exe
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\bin\Debug\netcoreapp3.1\ExercicioComArquivos.deps.json
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\bin\Debug\netcoreapp3.1\ExercicioComArquivos.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\bin\Debug\netcoreapp3.1\ExercicioComArquivos.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\bin\Debug\netcoreapp3.1\ExercicioComArquivos.dll
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\bin\Debug\netcoreapp3.1\ExercicioComArquivos.pdb
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\obj\Debug\netcoreapp3.1\ExercicioComArquivos.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\obj\Debug\netcoreapp3.1\ExercicioComArquivos.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\obj\Debug\netcoreapp3.1\ExercicioComArquivos.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\obj\Debug\netcoreapp3.1\ExercicioComArquivos.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\obj\Debug\netcoreapp3.1\ExercicioComArquivos.dll
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\obj\Debug\netcoreapp3.1\ExercicioComArquivos.pdb
+C:\ProgramasCSharp\ConceitoDePath\Path\ExercicioComArquivos\ExercicioComArquivos\obj\Debug\netcoreapp3.1\ExercicioComArquivos.genruntimeconfig.cache
